@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.selenium.takeScreenshot.ScreenShotOnFail">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="checkPageTitle"/>
+        </methods>
+      </class> <!-- com.selenium.takeScreenshot.ScreenShotOnFail -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

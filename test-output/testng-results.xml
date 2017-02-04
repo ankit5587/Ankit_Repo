@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38999" started-at="2017-01-26T03:35:59Z" finished-at="2017-01-26T03:36:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38999" started-at="2017-01-26T03:35:59Z" finished-at="2017-01-26T03:36:38Z">
+      <class name="selenium.properites.Scroolll">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.properites.Scroolll@224edc67]" name="setUp" is-config="true" duration-ms="21581" started-at="2017-01-26T09:05:59Z" finished-at="2017-01-26T09:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="scrollingToBottomofAPage()[pri:1, instance:selenium.properites.Scroolll@224edc67]" name="scrollingToBottomofAPage" duration-ms="5828" started-at="2017-01-26T09:06:21Z" finished-at="2017-01-26T09:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollingToBottomofAPage -->
+        <test-method status="PASS" signature="scrollingToElementofAPage()[pri:2, instance:selenium.properites.Scroolll@224edc67]" name="scrollingToElementofAPage" duration-ms="6801" started-at="2017-01-26T09:06:27Z" finished-at="2017-01-26T09:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollingToElementofAPage -->
+        <test-method status="PASS" signature="scrollingByCoordinatesofAPage()[pri:3, instance:selenium.properites.Scroolll@224edc67]" name="scrollingByCoordinatesofAPage" duration-ms="4752" started-at="2017-01-26T09:06:34Z" finished-at="2017-01-26T09:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollingByCoordinatesofAPage -->
+      </class> <!-- selenium.properites.Scroolll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
